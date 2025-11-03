@@ -1,7 +1,8 @@
 # Análise de Óbitos no Brasil em 2020
 
-Diogo Achiles Alves Paz – RA: 2571277
-Enzo da Silva Azevedo – RA: 2551756
+## Autores
+- Diogo Achiles Alves Paz – RA: 2571277
+- Enzo da Silva Azevedo – RA: 2551756
 
 ## Descrição do Projeto
 
