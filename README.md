@@ -18,7 +18,7 @@ A análise foca em duas dimensões principais:
 - Período: 2020
 - Formato: CSV
 - Tamanho: ~1.3 milhão de registros
-- Colunas: 85
+- Colunas: 87
 - Principais atributos: sexo, idade, causa básica do óbito (CID-10), local de ocorrência, escolaridade, comorbidades, assistência médica, exame e tipo de morte.
 
 ## Objetivos e Questões de Pesquisa
