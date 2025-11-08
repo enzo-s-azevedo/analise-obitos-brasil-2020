@@ -6,7 +6,11 @@
 
 ## Descrição do Projeto
 
-Este projeto tem como objetivo analisar os óbitos registrados no Brasil em 2020, utilizando dados do Sistema de Informações sobre Mortalidade (SIM) do DataSUS. A análise busca identificar possíveis impactos diferenciados da pandemia de COVID-19 entre homens e mulheres e compreender o papel das doenças respiratórias na mortalidade total do período.
+Este projeto tem como objetivo analisar os óbitos registrados em 2020 nas dez capitais brasileiras mais populosas, a partir dos dados do Sistema de Informações sobre Mortalidade (SIM), disponibilizados pelo DataSUS.
+A investigação busca compreender como fatores sociodemográficos e regionais influenciaram a probabilidade de mortes por causas respiratórias durante o primeiro ano da pandemia de COVID-19.
+A análise foca em duas dimensões principais:
+- O impacto da escolaridade sobre a mortalidade respiratória.
+- As diferenças regionais entre as capitais no padrão de óbitos.
 
 ## Dataset
 
@@ -19,10 +23,10 @@ Este projeto tem como objetivo analisar os óbitos registrados no Brasil em 2020
 
 ## Objetivos e Questões de Pesquisa
 
-- Homens morreram mais que mulheres durante a pandemia de COVID-19 em 2020?
-- As causas respiratórias representaram a principal causa de morte em 2020?
+- Q1: A escolaridade influenciou a probabilidade de óbito por doenças respiratórias durante 2020?
+- Q2: Há diferenças significativas entre as capitais brasileiras na incidência de óbitos por causas respiratórias?
 
 ## Hipóteses Testáveis
 
-- H1: Homens apresentaram probabilidade significativamente maior de óbito em 2020 em comparação às mulheres.
-- H2: As causas respiratórias foram mais frequentes que as demais causas básicas de óbito no ano de 2020.
+- H1: Indivíduos com menor escolaridade apresentaram maior probabilidade de óbito por causas respiratórias em 2020, nas capitais brasileiras mais populosas.
+- H2: Capitais localizadas nas regiões Norte e Nordeste apresentaram maior proporção de óbitos por causas respiratórias em 2020 em comparação às demais regiões.
