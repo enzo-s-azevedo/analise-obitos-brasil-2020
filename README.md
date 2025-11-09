@@ -14,7 +14,7 @@ A análise foca em duas dimensões principais:
 
 ## Dataset
 
-- Fonte: DataSUS – SIM (Sistema de Informações sobre Mortalidade)
+- Fonte: DataSUS – SIM (Sistema de Informações sobre Mortalidade) -> O link para acesso aos dados está disponível no arquivo [`dataset.txt`](dataset.txt).
 - Período: 2020
 - Formato: CSV
 - Tamanho: ~1.3 milhão de registros
