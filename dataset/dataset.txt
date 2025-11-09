@@ -1,0 +1,3 @@
+https://dados.gov.br/dados/conjuntos-dados/sim-1979-2019
+
+Nesta atividade, é necessário realizar o download dos dados correspondentes ao ano de 2020.
