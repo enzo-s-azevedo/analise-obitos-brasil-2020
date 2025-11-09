@@ -28,5 +28,5 @@ A análise foca em duas dimensões principais:
 
 ## Hipóteses Testáveis
 
-- H1: Indivíduos com menor escolaridade apresentaram maior probabilidade de óbito por causas respiratórias em 2020, nas capitais brasileiras mais populosas.
+- H1: Indivíduos com menor escolaridade apresentaram maior taxa de óbito por causas respiratórias em 2020, nas capitais brasileiras mais populosas.
 - H2: Capitais localizadas nas regiões Norte e Nordeste apresentaram maior proporção de óbitos por causas respiratórias em 2020 em comparação às demais regiões.
