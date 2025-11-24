@@ -30,3 +30,17 @@ A análise foca em duas dimensões principais:
 
 - H1: Indivíduos com menor escolaridade apresentaram maior taxa de óbito por causas respiratórias em 2020, nas capitais brasileiras mais populosas.
 - H2: Capitais localizadas nas regiões Norte e Nordeste apresentaram maior proporção de óbitos por causas respiratórias em 2020 em comparação às demais regiões.
+
+## Instruções de Uso
+
+1. Download do Dataset:
+
+    Baixe o dataset utilizando o link e as instruções fornecidas no arquivo dataset.txt.
+
+2. Integração e Limpeza de Dados:
+
+    Execute o notebook etapa2e3.ipynb, responsável pelos processos de integração e limpeza dos dados.
+
+3. Modelagem:
+
+    Para executar o notebook de modelagem (etapa4.ipynb), utilize o dataset filtrado gerado pelo notebook anterior ou, alternativamente, o arquivo filtrado já disponibilizado (filtradoParquet.parquet).

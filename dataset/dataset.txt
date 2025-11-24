@@ -1,3 +1,3 @@
-https://dados.gov.br/dados/conjuntos-dados/sim-1979-2019
+https://drive.google.com/file/d/1a5-519pC5RyMWRs7lThrPruLy6tmnylh/view?usp=sharing
 
-Nesta atividade, é necessário realizar o download dos dados correspondentes ao ano de 2020.
+Nesta atividade, para a execução do notebook "etapa2e3.ipynb", você deve baixar o arquivo dataset.txt disponível no link acima e modificar o caminho na primeira célula.
